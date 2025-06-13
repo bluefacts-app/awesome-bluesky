@@ -115,6 +115,7 @@ Know of another tool? Either submit it here as a pull request or tell us on Blue
  - [TipTopBot](https://tiptopbot.com) - List followers or follows for any Bluesky handle and export them to a CSV file
  - [Vanity Blue](https://vanity.blue/) - custom handle provider
  - [Woosh.link](https://woosh.link/) - Effortless link sharing for Bluesky and beyond.
+ - [FollowBlue](https://followblue.app) - Get real and targeted followers for your business.
 
 ## Alternative Clients
  - [AzSky](https://azsky.app) - alternative client featuring a threaded view and support for long posts with a 50,000-character limit.
