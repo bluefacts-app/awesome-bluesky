@@ -78,6 +78,7 @@ Know of another tool? Either submit it here as a pull request or tell us on Blue
  - [Bluesky-likes](https://luizzeroxis.github.io/bluesky-likes/) - see posts another user has liked
  - [Bluesky network analyser](https://bsky-follow-finder.theo.io/) - find accounts followed by your follows but not you
  - [Bluesky Notify](https://pypi.org/project/bluesky-notify/), [codebase](https://github.com/jerdog/bluesky-notify/) - A cross-platform desktop notification system for Bluesky
+ - [Bluesky Unfollowers Tracker](https://bsky.app/profile/bluesky-tracker.bsky.social) - A mobile app to track Bluesky followers & unfollowers in real-time. The ultimate tracking tool!
  - [Bluerain](https://simone.computer/bluerain) - Bluesky firehose visualized in a Matrix-style rain
  - [Blu.Ski](https://blu.ski) - Short links to bluesky profiles
  - [Blu.Ski Terminal](https://blu.ski/terminal) - Bluesky firehose visualized as a computer terminal
