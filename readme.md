@@ -91,6 +91,7 @@ Know of another tool? Either submit it here as a pull request or tell us on Blue
  - [graysky.social](https://graysky.social/) - community handle provider
  - [hellsky](https://hellsky.vvvvv.co/) - every image on the firehose (warning, will almost certainly be NSFW)
  - [Hugfairy](https://hugfairy.haider.id) - Hugfairy Bot for BlueSky
+ - [newdin](https://read.newdin.com) - Thread Reader and Link Aggregator Bot for BlueSky
  - [noodlyy](https://www.noodlyy.com/) - Check which replies have satisfied the giveaway rules you set (e.g. liked, reposted, followed, etc.)
  - [SkeetBeaver](https://skeetbeaver.pages.dev/) - easily access all pubically available account information about any user via the Bluesky API
  - [Skyname](https://skyna.me) - username registrar with fun domains like bsky.cool, tired.io ([source](https://github.com/darnfish/skyname))
