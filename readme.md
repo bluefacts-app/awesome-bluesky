@@ -81,6 +81,7 @@ Know of another tool? Either submit it here as a pull request or tell us on Blue
  - [Bluesky Notify](https://pypi.org/project/bluesky-notify/), [codebase](https://github.com/jerdog/bluesky-notify/) - A cross-platform desktop notification system for Bluesky
  - [Bluesky Unfollowers Tracker](https://bsky.app/profile/bluesky-tracker.bsky.social) - A mobile app to track Bluesky followers & unfollowers in real-time. The ultimate tracking tool!
  - [Bluerain](https://simone.computer/bluerain) - Bluesky firehose visualized in a Matrix-style rain
+ - [Blue Report](https://theblue.report/) - The top links on Bluesky over the last 24 hours - updated hourly
  - [Blu.Ski](https://blu.ski) - Short links to bluesky profiles
  - [Blu.Ski Terminal](https://blu.ski/terminal) - Bluesky firehose visualized as a computer terminal
  - [Blueviewer](https://blueviewer.pages.dev/) - Bluesky thread viewer
