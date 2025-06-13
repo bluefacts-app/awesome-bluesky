@@ -127,6 +127,7 @@ Know of another tool? Either submit it here as a pull request or tell us on Blue
  - [Skeets](https://www.skeetsapp.com) - alternative client for iOS, iPadOS and MacOS
  - [Sky.app](https://github.com/jcsalterego/Sky.app) - alternative MacOS client
  - [SkyFeed](https://skyfeed.app) - alternative web client with a powerful custom feed builder
+ - [SoraSNS](https://mszpro.com/sorasns) - alternative client for iOS, iPadOS, WatchOS, and VisionOS (native) for Bluesky, Mastodon, Misskey, and Nostr
  - [Tabtter](https://tabtter.jp/) - webclient with a Japanese focus
  - [Tuisky](https://github.com/sugyan/tuisky) - a TUI client for Bluesky
  - [TOKIMEKI](https://tokimekibluesky.vercel.app/) - alternative web client
