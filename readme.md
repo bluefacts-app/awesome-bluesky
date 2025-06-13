@@ -55,6 +55,7 @@ Know of another tool? Either submit it here as a pull request or tell us on Blue
  - [TrendSpotter](https://www.trendspotter.blue/) - Discover trends and viral posts on Bluesky
 
 ## Post Management 
+ - [Saki](https://usesaki.com) - Make BlueSky post scheduling easier than ever.
  - [bluesky-crossposter](https://github.com/Linus2punkt0/bluesky-crossposter) - python script to crosspost bluesky content to Twitter and Mastodon
  - [Bluesky Thread Composer](https://bluesky-thread-composer.pages.dev/) - easy thread composer & large post splitter
  - [Bluesky Scheduler](https://www.blueskyscheduler.com/) - draft & schedule posts
