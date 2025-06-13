@@ -8,10 +8,10 @@ Know of another tool? Either submit it here as a pull request or tell us on Blue
 
 ## Charts, graphs, and stats
  - [Bcounter](https://bcounter.nat.vg/) - near real time user counter
+ - [BlueFacts - Bluesky Stats and Trends](https://bluefacts.app) - Top lists of most followed users, trending & fast growing user accounts
  - [Bluesky handle directory](https://blue.mackuba.eu/directory/) - directory of Bluesky handles sorted by TLD
  - [Bluesky Social Profile Statistics](https://bstat.app/) - tracking Bluesky profile statistics, such as the number of followers, follows, skeets, likes, and reposts
  - [Bluesky Stats](https://vqv.app/stats) - stats and top lists
- - [Bluesky Trends and Insights](https://blue.facts.dev) - Top lists of most followed users, trending & fast growing user accounts
  - [Bluesky+](https://chromewebstore.google.com/detail/bluesky+/flbheallcbkoaffegmjenkpojhocmdla) - Chrome extension with useful stats in a sidebar
  - [Dopplersky](https://dopplersky.com) - profile tracking & insights
  - [Realtime Bluesky Metrics](https://realtime.blue/) - live look at a user's stats, including actual followers over 1,000
@@ -22,6 +22,7 @@ Know of another tool? Either submit it here as a pull request or tell us on Blue
  - [TheBlue.social](https://theblue.social) - analytics, post scheduling, search starter packs, follower management
  
 ## Feeds, Labels, and Starter Packs
+ - [BlueFacts feed builder](https://bluefacts.app/feed-builder/docs) - Create custom feeds based on search terms
  - [Bluesky Feed Creator](https://blueskyfeedcreator.com/) - design and customize your Bluesky feeds, no coding knowledge required
  - [Bluesky Labelers](https://www.bluesky-labelers.io/) - searchable index of labelers
  - [Bluestream](https://bluestream.deno.dev/) - RSS feed generator
@@ -37,10 +38,10 @@ Know of another tool? Either submit it here as a pull request or tell us on Blue
  - [Fedifinder](https://fedifinder.glitch.me/) - Your X/Twitter contacts on Bluesky and the fediverse
  - [Follow the Sky](https://gggdomi.github.io/follow-the-sky/) - Find again in Bluesky people you follow on Twitter
  - [HelloQuitX](https://app.helloquitx.com/) - Find your Twitter contacts on Bluesky
+ - [Redirect Twitter Share to Bluesky](https://share.notx.blue/) - Chrome/Firefox add-on to redirect current Twitter/X share buttons to Bluesky
  - [Skeet](https://skeet.labnotes.org/) - find your Twitter or Mastodon mutuals on Bluesky
  - [Skeeter](https://skeeter.streamlit.app/) - Twitter/Mastodon to Bluesky User Search
  - [Sky Follower Bridge](https://www.sky-follower-bridge.dev) - Chrome add-on to find your Twitter follows and followers on Bluesky
- - [Redirect Twitter Share to Bluesky](https://share.notx.blue/) - Chrome/Firefox add-on to redirect current Twitter/X share buttons to Bluesky
 
 ## Post Analytics
  - [Bluesky Analytics](https://bluesky-insights.dwagentai.com/) - does what it says on the tin
@@ -58,20 +59,19 @@ Know of another tool? Either submit it here as a pull request or tell us on Blue
  - [TrendSpotter](https://www.trendspotter.blue/) - Discover trends and viral posts on Bluesky
 
 ## Post Management 
- - [Saki](https://usesaki.com) - Make BlueSky post scheduling easier than ever.
  - [bluesky-crossposter](https://github.com/Linus2punkt0/bluesky-crossposter) - python script to crosspost bluesky content to Twitter and Mastodon
- - [Bluesky Thread Composer](https://bluesky-thread-composer.pages.dev/) - easy thread composer & large post splitter
  - [Bluesky Scheduler](https://www.blueskyscheduler.com/) - draft & schedule posts
+ - [Bluesky Thread Composer](https://bluesky-thread-composer.pages.dev/) - easy thread composer & large post splitter
  - [bskylog](https://github.com/hidea/app_bskylog) - keep a local copy of all your Bluesky posts
  - [longer.blue](https://longer.blue) - write longer posts
  - [Monadsky](https://monadsky.com) - Advanced post scheduling tailored for Bluesky creators
  - [PostPocket](https://apps.apple.com/au/app/postpocket-save-read-later/id6670723615) - iOS app to bookmark posts
  - [Profile Cleaner](https://bsky.jazco.dev/cleanup) - clean up old posts, likes, and reposts from your Bluesky account
+ - [Saki](https://usesaki.com) - Make BlueSky post scheduling easier than ever.
  - [SkySweeper](https://skysweeper.p8.lu/) - automatically delete old posts
  - [Wamellow Discord Bot](https://wamellow.com/docs/notifications) - Get Bluesky posts into Discord, as they happen, with filters and pings 
 
 ## Other tools
- - [BskyInfo](https://www.bskyinfo.com/) - The Most Comprehensive Bluesky Tools Directory
  - [AT Webhooks](https://atprotowebhooks.com) - generally programmable firehose-to-webhook server
  - [bannerizer](https://bannerizer.glitch.me/) - easily crop or resize an image to fit Bluesky's banner size requirements
  - [Best BlueSky Apps](https://bestblueskyapps.com) - a complete directory of best BlueSky apps and tools
@@ -89,12 +89,14 @@ Know of another tool? Either submit it here as a pull request or tell us on Blue
  - [Blu.Ski Terminal](https://blu.ski/terminal) - Bluesky firehose visualized as a computer terminal
  - [Blueviewer](https://blueviewer.pages.dev/) - Bluesky thread viewer
  - [Bluniversal Comments](https://github.com/joneslloyd/bluniversal-comments) – Start a conversation next to any web page using your Bluesky account
+ - [BskyInfo](https://www.bskyinfo.com/) - The Most Comprehensive Bluesky Tools Directory
  - [BskyThreadReader](https://bskythreadreader.glitch.me/) - Look at and share any Bluesky Thread without logging in.
  - [Byesky](https://byesky.pirhoo.com/) - Clean-up followings, non-mutuals or simply delete all your subscriptions with ease
  - [Bluesky Tracker](https://bluesky-tracker.extensionsfox.com/) - Bluesky account followers analysis & batch unfollow & Ghost Follower Detection
  - [cleanfollow-bsky](https://cleanfollow-bsky.pages.dev/) - tool to unfollow inactive or blocked accounts
  - [ClearSky Search Tool](https://clearsky.app/) - see who is blocking you, who a user is blocking, the total amount of Bluesky users, or look up a DID.
  - [did:plc Tracker](https://plc-handle-tracker.kpherox.dev/) - did:plc & atproto handle tracker
+ - [FollowBlue](https://followblue.app) - Get real and targeted followers for your business.
  - [Firesky](https://firesky.tv/) - every post everywhere all at once
  - [graysky.social](https://graysky.social/) - community handle provider
  - [hellsky](https://hellsky.vvvvv.co/) - every image on the firehose (warning, will almost certainly be NSFW)
@@ -116,7 +118,6 @@ Know of another tool? Either submit it here as a pull request or tell us on Blue
  - [TipTopBot](https://tiptopbot.com) - List followers or follows for any Bluesky handle and export them to a CSV file
  - [Vanity Blue](https://vanity.blue/) - custom handle provider
  - [Woosh.link](https://woosh.link/) - Effortless link sharing for Bluesky and beyond.
- - [FollowBlue](https://followblue.app) - Get real and targeted followers for your business.
 
 ## Alternative Clients
  - [AzSky](https://azsky.app) - alternative client featuring a threaded view and support for long posts with a 50,000-character limit.
