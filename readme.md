@@ -2,11 +2,9 @@
 
 [Bluesky](https://github.com/bluesky-social/) is an open-source microblogging platform powered by the [AT Protocol](https://atproto.com/). This protocol enables the creation of powerful third party tools, enlisted here for easy reference.
 
-Are you a programmer? Check out [Awesome ATProto](https://github.com/beeman/awesome-atproto) which has some overlap with this list but many more resources for libraries, bots, and the like. This list is intended for end user facing software and tools. [The Bluesky Index](https://github.com/scrub-dev/bsky-index/) is another great list to check out as well. This list is for user centric applications that can run without progamming knowledge that are ready to run "out of the box". Libraries, self-hosting tools, etc should be submitted elsewhere.
+Are you a programmer? Check out [Awesome ATProto](https://github.com/beeman/awesome-atproto) which has some overlap with this list but many more resources for libraries, bots, and the like. This list is intended for end user facing software and tools. [The Bluesky Index](https://github.com/scrub-dev/bsky-index/) is another great list to check out as well. This list is for user centric applications that can run without programming knowledge that are ready to run "out of the box". Libraries, self-hosting tools, etc should be submitted elsewhere.
 
-Know of another tool? Either submit it here as a pull request or simply tell me ([@fishttp.website](https://bsky.app/profile/fishttp.website)) about it on Bluesky.
-
-Always use an app password, never your main password!
+Know of another tool? Either submit it here as a pull request or tell us on BlueSky ([@bluefacts.app](https://bsky.app/profile/bluefacts.app)).
 
 ## Charts, graphs, and stats
  - [Bcounter](https://bcounter.nat.vg/) - near real time user counter
@@ -87,6 +85,7 @@ Always use an app password, never your main password!
  - [graysky.social](https://graysky.social/) - community handle provider
  - [hellsky](https://hellsky.vvvvv.co/) - every image on the firehose (warning, will almost certainly be NSFW)
  - [Hugfairy](https://hugfairy.haider.id) - Hugfairy Bot for BlueSky
+ - [noodlyy](https://www.noodlyy.com/) - Check which replies have satisfied the giveaway rules you set (e.g. liked, reposted, followed, etc.)
  - [SkeetBeaver](https://skeetbeaver.pages.dev/) - easily access all pubically available account information about any user via the Bluesky API
  - [Skyname](https://skyna.me) - username registrar with fun domains like bsky.cool, tired.io ([source](https://github.com/darnfish/skyname))
  - [Skythread](https://blue.mackuba.eu/skythread/) - thread viewer
@@ -126,4 +125,6 @@ Always use an app password, never your main password!
  - [TOKIMEKI](https://tokimekibluesky.vercel.app/) - alternative web client
  - [Unisky](https://github.com/UnicordDev/UniSky) - client for Windows 11, Windows 10 and Windows 10 Mobile 
 
+## Attribution
 
+This list was originally started [here](https://github.com/fishttp/awesome-bluesky). After a period of inactivity we at BlueFacts created this fork.
