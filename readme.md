@@ -41,7 +41,7 @@ Know of another tool? Either submit it here as a pull request or tell us on Blue
 
 ## Post Analytics
  - [Bluesky Analytics](https://bluesky-insights.dwagentai.com/) - does what it says on the tin
- - [Bluesky Copilot](https://blueskycopilot.yourgenlab.com/) - analyses your posts, gathers the best/worst performing ones and generates some suggestions
+ - [Bluesky Copilot](https://bskycopilot.com) - analyses your posts, gathers the best/worst performing ones and generates some suggestions
  - [Bluesky Insights](https://bskyinsights.com) - interesting insights for any Bluesky profile
  - [Bluesky Meter](https://blueskymeter.com) - posting streak heatmap
  - [Bluesky Post Trend Map](https://bsky-post-map.vercel.app/) - view a user's 30 day trend
