@@ -20,6 +20,7 @@ Know of another tool? Either submit it here as a pull request or tell us on Blue
  - [Skycle.app](https://skycle.app/) - highly customizable interaction circles 
  - [Stats for Bluesky by Jaz](https://bsky.jazco.dev/) - aggregate stats for all posts in Jaz's Bluesky index.
  - [TheBlue.social](https://theblue.social) - analytics, post scheduling, search starter packs, follower management
+ - [Tracker - Manager for Bluesky](https://linktr.ee/bluesky.tracker) - A mobile app for real-time tracking & managing of your Bluesky followers & followings!
  
 ## Feeds, Labels, and Starter Packs
  - [BlueFacts feed builder](https://bluefacts.app/feed-builder/docs) - Create custom feeds based on search terms
@@ -56,6 +57,7 @@ Know of another tool? Either submit it here as a pull request or tell us on Blue
  - [SkyKit](https://skykit.blue/) - post engagement analysis
  - [Skyzoo](https://skyzoo.blue/) - Assigns you a Bluesky animal based on your recent activity
  - [TrackBlue](https://track.blue/) - schedule posts, track engagement, and manage your audience with powerful CRM tools
+ - [Tracker - Manager for Bluesky](https://linktr.ee/bluesky.tracker) - post analysis and advanced post stats along with likes tracking.
  - [TrendSpotter](https://www.trendspotter.blue/) - Discover trends and viral posts on Bluesky
 
 ## Post Management 
@@ -82,7 +84,6 @@ Know of another tool? Either submit it here as a pull request or tell us on Blue
  - [Bluesky-likes](https://luizzeroxis.github.io/bluesky-likes/) - see posts another user has liked
  - [Bluesky network analyser](https://bsky-follow-finder.theo.io/) - find accounts followed by your follows but not you
  - [Bluesky Notify](https://pypi.org/project/bluesky-notify/), [codebase](https://github.com/jerdog/bluesky-notify/) - A cross-platform desktop notification system for Bluesky
- - [Bluesky Unfollowers Tracker](https://bsky.app/profile/bluesky-tracker.bsky.social) - A mobile app to track Bluesky followers & unfollowers in real-time. The ultimate tracking tool!
  - [Bluerain](https://simone.computer/bluerain) - Bluesky firehose visualized in a Matrix-style rain
  - [Blue Report](https://theblue.report/) - The top links on Bluesky over the last 24 hours - updated hourly
  - [Blu.Ski](https://blu.ski) - Short links to bluesky profiles
