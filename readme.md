@@ -74,6 +74,7 @@ Know of another tool? Either submit it here as a pull request or tell us on Blue
  - [Wamellow Discord Bot](https://wamellow.com/docs/notifications) - Get Bluesky posts into Discord, as they happen, with filters and pings 
 
 ## Other tools
+ - [ATProtoViewer](https://corkiejp.github.io/ATProtoViewer/) - Privacy focused static github html record viewer (no logins) with PWA that accepts blueksy share to/via feature + bookmarks
  - [AT Webhooks](https://atprotowebhooks.com) - generally programmable firehose-to-webhook server
  - [bannerizer](https://bannerizer.glitch.me/) - easily crop or resize an image to fit Bluesky's banner size requirements
  - [Best BlueSky Apps](https://bestblueskyapps.com) - a complete directory of best BlueSky apps and tools
@@ -83,6 +84,7 @@ Know of another tool? Either submit it here as a pull request or tell us on Blue
  - [Bluesky Firehose in VR](https://vrchat.com/home/world/wrld_52865286-5286-5286-5286-528652865286/info) - a live view of every post on the network .. in VRChat
  - [Bluesky-likes](https://luizzeroxis.github.io/bluesky-likes/) - see posts another user has liked
  - [Bluesky network analyser](https://bsky-follow-finder.theo.io/) - find accounts followed by your follows but not you
+ - [Bluesky to MP4](https://blueskytomp4.com/) - Convert Bluesky embeded videos to MP4 and download
  - [Bluesky Notify](https://pypi.org/project/bluesky-notify/), [codebase](https://github.com/jerdog/bluesky-notify/) - A cross-platform desktop notification system for Bluesky
  - [Bluerain](https://simone.computer/bluerain) - Bluesky firehose visualized in a Matrix-style rain
  - [Blue Report](https://theblue.report/) - The top links on Bluesky over the last 24 hours - updated hourly
