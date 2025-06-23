@@ -74,7 +74,7 @@ Know of another tool? Either submit it here as a pull request or tell us on Blue
  - [Wamellow Discord Bot](https://wamellow.com/docs/notifications) - Get Bluesky posts into Discord, as they happen, with filters and pings 
 
 ## Other tools
- - [ATProtoViewer](https://corkiejp.github.io/ATProtoViewer/) - Privacy focused static github html record viewer (no logins) with PWA that accepts blueksy share to/via feature + bookmarks
+ - [ATProtoViewer](https://corkiejp.github.io/ATProtoViewer/) - Static github html record viewer (no logins) with PWA that accepts blueksy share to/via feature + bookmarks
  - [AT Webhooks](https://atprotowebhooks.com) - generally programmable firehose-to-webhook server
  - [bannerizer](https://bannerizer.glitch.me/) - easily crop or resize an image to fit Bluesky's banner size requirements
  - [Best BlueSky Apps](https://bestblueskyapps.com) - a complete directory of best BlueSky apps and tools
