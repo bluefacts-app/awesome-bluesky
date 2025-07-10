@@ -25,6 +25,7 @@ Know of another tool? Either submit it here as a pull request or tell us on Blue
 ## Feeds, Labels, and Starter Packs
  - [BlueFacts feed builder](https://bluefacts.app/feed-builder/docs) - Create custom feeds based on search terms
  - [Bluesky Feed Creator](https://blueskyfeedcreator.com/) - design and customize your Bluesky feeds, no coding knowledge required
+ - [Bluesky Feeds](https://blueskyfeeds.com/) - A directory and search engine to find the best Bluesky feeds, Bluesky feed builder 
  - [Bluesky Labelers](https://www.bluesky-labelers.io/) - searchable index of labelers
  - [Bluestream](https://bluestream.deno.dev/) - RSS feed generator
  - [goodfeeds](https://goodfeeds.co/) - custom feed directory/search engine and builder
