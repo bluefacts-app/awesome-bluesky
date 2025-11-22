@@ -56,6 +56,7 @@ Know of another tool? Either submit it here as a pull request or tell us on Blue
  - [Bskypt](https://bskypt.vercel.app/) - generate a "social receipt"
  - [Fedica](https://fedica.com/) - posting analysis and and insights
  - [SkyKit](https://skykit.blue/) - post engagement analysis
+ - [SkyPilot](https://skypilot.social) - Engagement analytics and post scheduling
  - [Skyzoo](https://skyzoo.blue/) - Assigns you a Bluesky animal based on your recent activity
  - [TrackBlue](https://track.blue/) - schedule posts, track engagement, and manage your audience with powerful CRM tools
  - [Tracker - Manager for Bluesky](https://linktr.ee/bluesky.tracker) - post analysis and advanced post stats along with likes tracking.
