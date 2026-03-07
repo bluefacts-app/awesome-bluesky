@@ -84,6 +84,7 @@ Know of another tool? Either submit it here as a pull request or tell us on Blue
  - [BlueSky Enhancer](https://github.com/Invertex/BSKY-Enhancer) - Enhances bsky.app, adding 'Likes' feed on profiles, follow-status icons, improved media quality/downloading and much more!
  - [Bluesky Firehose in 3D](https://firehose3d.theo.io/) - a live view of every post on the network ...in 3D!
  - [Bluesky Firehose in VR](https://vrchat.com/home/world/wrld_52865286-5286-5286-5286-528652865286/info) - a live view of every post on the network .. in VRChat
+ - [Bluesky Scraper](https://apify.com/cryptosignals/bluesky-scraper) - free no-code scraper for Bluesky posts and profiles using AT Protocol API. Exports JSON, CSV, Excel.
  - [Bluesky-likes](https://luizzeroxis.github.io/bluesky-likes/) - see posts another user has liked
  - [Bluesky network analyser](https://bsky-follow-finder.theo.io/) - find accounts followed by your follows but not you
  - [Bluesky to MP4](https://blueskytomp4.com/) - Convert Bluesky embeded videos to MP4 and download
