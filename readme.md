@@ -68,6 +68,7 @@ Know of another tool? Either submit it here as a pull request or tell us on Blue
  - [bskylog](https://github.com/hidea/app_bskylog) - keep a local copy of all your Bluesky posts
  - [longer.blue](https://longer.blue) - write longer posts
  - [Monadsky](https://monadsky.com) - Advanced post scheduling tailored for Bluesky creators
+ - [ONYX](https://onyxhq.us) - Bluesky-native post scheduler on the AT Protocol with AI-assisted drafting, analytics, and free Bluesky tools. $7/mo flat, free tier.
  - [PostPocket](https://apps.apple.com/au/app/postpocket-save-read-later/id6670723615) - iOS app to bookmark posts
  - [Profile Cleaner](https://bsky.jazco.dev/cleanup) - clean up old posts, likes, and reposts from your Bluesky account
  - [Saki](https://usesaki.com) - Make BlueSky post scheduling easier than ever.
