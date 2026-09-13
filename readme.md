@@ -9,6 +9,8 @@ Know of another tool? Either submit it here as a pull request or tell us on Blue
 ## Charts, graphs, and stats
  - [Bcounter](https://bcounter.nat.vg/) - near real time user counter
  - [BlueFacts - Bluesky Stats and Trends](https://bluefacts.app) - Top lists of most followed users, trending & fast growing user accounts
+ - [Blue Horizons](https://bluehorizons.pudgycat.io/) - free public audience analyzer and follower management with mutuals, unfollowers, and account discovery
+ - [Blue Rankings](https://bluerankings.pudgycat.io/) - searchable Bluesky account rankings by followers, following, and posts, with category filters and published coverage information
  - [Bluesky handle directory](https://blue.mackuba.eu/directory/) - directory of Bluesky handles sorted by TLD
  - [Bluesky Social Profile Statistics](https://bstat.app/) - tracking Bluesky profile statistics, such as the number of followers, follows, skeets, likes, and reposts
  - [Bluesky Stats](https://vqv.app/stats) - stats and top lists
