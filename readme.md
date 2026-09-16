@@ -72,6 +72,7 @@ Know of another tool? Either submit it here as a pull request or tell us on Blue
  - [Profile Cleaner](https://bsky.jazco.dev/cleanup) - clean up old posts, likes, and reposts from your Bluesky account
  - [Saki](https://usesaki.com) - Make BlueSky post scheduling easier than ever.
  - [SkySweeper](https://skysweeper.p8.lu/) - automatically delete old posts
+ - [Social media studio](https://so-me.studio) - draft, schedule, and publish Bluesky posts and threads alongside other social accounts
  - [Wamellow Discord Bot](https://wamellow.com/docs/notifications) - Get Bluesky posts into Discord, as they happen, with filters and pings 
 
 ## Other tools
