@@ -72,6 +72,7 @@ Know of another tool? Either submit it here as a pull request or tell us on Blue
  - [Profile Cleaner](https://bsky.jazco.dev/cleanup) - clean up old posts, likes, and reposts from your Bluesky account
  - [Saki](https://usesaki.com) - Make BlueSky post scheduling easier than ever.
  - [SkySweeper](https://skysweeper.p8.lu/) - automatically delete old posts
+ - [Statuz](https://statuz.app) - Mac app, CLI and MCP server that schedules posts and threads to Bluesky, X, Mastodon and LinkedIn
  - [Wamellow Discord Bot](https://wamellow.com/docs/notifications) - Get Bluesky posts into Discord, as they happen, with filters and pings 
 
 ## Other tools
